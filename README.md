@@ -1,2 +1,1 @@
-# TestAutomation
-TestAutomation 1
+# TestAutomationExcercise
